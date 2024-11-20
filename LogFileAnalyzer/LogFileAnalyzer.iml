@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/LogFileAnalyser/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/OneDrive/Desktop/jar files/AbsoluteLayout-RELEASE180.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Desktop/jar files/javax.activation-1.2.0.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Desktop/jar files/javax.mail-1.6.2.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Desktop/jar files/jbcrypt-0.4.jar!/" />
+          <root url="jar://$USER_HOME$/OneDrive/Desktop/jar files/mysql-connector-j-9.0.0.jar!/" />
+          <root url="file://$USER_HOME$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1/templates/invisible-project/src" />
+          <root url="file://$USER_HOME$/.vscode/extensions/vscjava.vscode-maven-0.44.0/resources/maven-wrapper/.mvn/wrapper" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/-610afc58" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/37d72215" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/40013534" />
+          <root url="file://$USER_HOME$/AppData/Roaming/Code/User/History/7fc2d2c1" />
+          <root url="file://$USER_HOME$/AppData/Roaming/npm/node_modules/truffle/node_modules/ganache/node_modules/secp256k1/src/secp256k1/src/java" />
+          <root url="file://$USER_HOME$/AppData/Roaming/npm/node_modules/truffle/node_modules/secp256k1/src/secp256k1/src/java" />
+          <root url="file://$USER_HOME$/Downloads/Cine-main/Cine-main/src/java" />
+          <root url="file://$USER_HOME$/Downloads/dimo-core-dev/dimo-core-dev/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/dimo-core-dev/dimo-core-dev/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/med-block-master/med-block-master/client/node_modules/ipfs-api/node_modules/secp256k1/src/secp256k1-src/src/java" />
+          <root url="file://$USER_HOME$/Downloads/med-block-master/med-block-master/client/node_modules/libp2p-crypto-secp256k1/node_modules/secp256k1/src/secp256k1-src/src/java" />
+          <root url="file://$USER_HOME$/Downloads/med-block-master/med-block-master/client/node_modules/secp256k1/src/secp256k1/src/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/build/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/demo/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/generated/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/legacy/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/core-api/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/core-impl/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/protocol-impl/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/user-api/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/main/user-impl/java" />
+          <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/src/test/java" />
+          <root url="file://$USER_HOME$/IdeaProjects/Practice" />
+          <root url="file://$USER_HOME$/IdeaProjects/Practice/src" />
+          <root url="file://$USER_HOME$/OneDrive/Documents/NetBeansProjects/JavaPractice/src" />
+          <root url="file://$USER_HOME$/OneDrive/Documents/NetBeansProjects/design/src" />
+          <root url="file://$USER_HOME$/eclipse-workspace/BUSRESERVATIONSYSTEM/src" />
+          <root url="file://$USER_HOME$/eclipse-workspace/BusTicket/src" />
+          <root url="file://$USER_HOME$/final-year-project/project-code/med-block/client/node_modules/ipfs-api/node_modules/secp256k1/src/secp256k1-src/src/java" />
+          <root url="file://$USER_HOME$/final-year-project/project-code/med-block/client/node_modules/libp2p-crypto-secp256k1/node_modules/secp256k1/src/secp256k1-src/src/java" />
+          <root url="file://$USER_HOME$/final-year-project/project-code/med-block/client/node_modules/secp256k1/src/secp256k1/src/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
